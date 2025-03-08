@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "tesseract.js": "^6.0.0"
+  },
+  "name": "filter-sensitive",
+  "version": "1.0.0",
+  "description": "A project to filter sensitive information using OCR",
+  "main": "filter.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/filter-sensitive.git"
+  },
+  "keywords": [
+    "OCR",
+    "filter",
+    "sensitive",
+    "tesseract",
+    "filter"
+  ],
+  "author": "Cianmoop",
+  "license": "MIT"
+}
